@@ -1,4 +1,4 @@
-![logo](https://github.com/kiranjutt/kiranjutt/blob/main/kiran.jpg.jpg)
+![logo](https://github.com/kiranjutt/kiranjutt/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi🙋, I'm Kiran Shahzadi</h1>
 <h3 align="center">Full Stack Developer</h3>
